@@ -1,4 +1,3 @@
-# Read-me
 # Hi there, I’m Narges Babadi 👋
 
 🎓 Ph.D. Candidate | 🔬 Researcher in AI Safety & Security  
