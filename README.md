@@ -1,4 +1,4 @@
-# Hi there, I’m Narges Babadi 👋
+# Hi there, I am Narges Babadi 👋
 
 🎓 Ph.D. Candidate | 🔬 Researcher in AI Safety & Security  
 📍 Department of Electrical and Software Engineering, University of Calgary
@@ -14,5 +14,5 @@
 
 ## 🌐 Connect with Me
 - 🔗 [Google Scholar](https://scholar.google.ca/citations?user=XRjtSQoAAAAJ&hl=en&oi=ao)  
-- 🔗 [LinkedIn]([your-link](https://www.linkedin.com/in/nargesbabadi/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nargesbabadi/) 
 
